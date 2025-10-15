@@ -1,0 +1,2 @@
+# EveryWord
+everyword.java utility
